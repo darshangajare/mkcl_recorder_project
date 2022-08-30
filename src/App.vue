@@ -4,7 +4,8 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/privacy">Privacy</router-link> |
-      <router-link to="/terms">TOS</router-link>
+      <router-link to="/terms">TOS</router-link> |
+      <router-link to="/video"> Video Recording </router-link>
     </div>
     <router-view/>
   </div>
